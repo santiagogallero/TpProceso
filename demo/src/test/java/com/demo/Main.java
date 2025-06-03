@@ -5,7 +5,7 @@ import com.entity.state.PartidoArmado;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("=== Simulación de estados de Partido ===");
+        System.out.println("\n\n=== Simulación de estados de Partido ===");
 
         Partido partido = new Partido(); // Estado inicial: NecesitamosJugadores
 
